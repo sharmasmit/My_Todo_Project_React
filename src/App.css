@@ -69,8 +69,8 @@
    margin: 1rem;
    box-shadow: 5px 5px 15px;
    border: none;
-   /* pointer-events: none; */
-   transition: all 1s ease;
+   pointer-events: none;
+ transition: all 1s ease;
  }
 
  .todo-item {
